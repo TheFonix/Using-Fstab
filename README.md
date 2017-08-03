@@ -18,4 +18,4 @@ UUID=3038da43-4acf-42f6-86fc-681ec353913d /mnt            ext4    noatime,nodira
 This would mount the device to the /mnt directory
 
 ## Extra Flags?
-The `noatime` and `nodiratime` and performance benefits for system during the mount process
+The `noatime` and `nodiratime` are performance benefits for system during the mount process
